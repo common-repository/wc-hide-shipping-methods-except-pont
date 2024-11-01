@@ -1,0 +1,122 @@
+# WC Hide Shipping Methods Except Pont
+# Copyright (C) 2019 KezmuvesRaketa
+# This file is distributed under the same license as the WC Hide Shipping Methods Except Pont package.
+# Krizsán Csaba <csa3a07@gmail.com>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: csa3a07@gmail.com\n"
+"POT-Creation-Date: 2019-01-13 11:32+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: kezmuvesraketa-hide-nonfree-shipping.php:45
+msgid "Settings"
+msgstr ""
+
+#: kezmuvesraketa-hide-nonfree-shipping.php:46
+msgid "Donate"
+msgstr ""
+
+#: kezmuvesraketa-hide-nonfree-shipping.php:63
+msgid "Hide shipping methods"
+msgstr ""
+
+#: kezmuvesraketa-hide-nonfree-shipping.php:66
+msgid "When \"Free Shipping\" is available during checkout"
+msgstr ""
+
+#: kezmuvesraketa-hide-nonfree-shipping.php:71
+msgid "Hide all other shipping methods and only show \"Free Shipping\""
+msgstr ""
+
+#: kezmuvesraketa-hide-nonfree-shipping.php:72
+msgid ""
+"Hide all other shipping methods and only show \"Free Shipping\", \"Local "
+"Pickup\" and \"Pont\""
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin automatically hides all other shipping methods when \"Free shipping\" "
+"is available during checkout. It also includes an option to keep \"local pickup\" and "
+"\"pont\" (by Szathmari and by Viszt Péter) available, alongside \"free shipping\""
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid ""
+"WC Hide Shipping Methods Except Pont"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://profiles.wordpress.org/csa3a07"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial release"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "A: Yes!"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid ""
+"A: WC requires at least: 2.6\n"
+"WC tested up to: 6.6.0"
+msgstr ""
+
+#. Found in faq header.
+msgid "Q: Is this plugin compatible with new shipping zones?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Q: What WooCommerce version is required?"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Save and enjoy!"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Select your option."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Navigate to <strong>WooCommerce &gt; Settings &gt; Shipping &gt; Shipping options</strong>."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Download the plugin &amp; install it to your <code>wp-content/plugins</code> folder (or use the Plugins menu through the WordPress Administration section)"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This plugin automatically hides all other shipping methods when “free shipping” is available during checkout process. It also includes an option to keep “local pickup” and “pont” (by Szathmari) available alongside “free shipping”. Your donation is greatly appreciated."
+msgstr ""
+
+#. Screenshot description.
+msgid "Checkout free shipping + local pickup"
+msgstr ""
+
+#. Screenshot description.
+msgid "Checkout free shipping"
+msgstr ""
+
+#. Screenshot description.
+msgid "Plugin settings"
+msgstr ""
+
+#. Short description.
+msgid "This plugin automatically hides all other shipping methods when “free shipping” is available."
+msgstr ""
